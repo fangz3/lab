@@ -5,6 +5,7 @@
 ### c. Reading assignments - make sure to reflect on these in a lab1.md file in your repository
 
 ### d. Linux
+![directory](directory.jpg)
 
 ### e. Regex
 
