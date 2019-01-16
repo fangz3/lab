@@ -8,6 +8,8 @@ Done
 1. If you don't want to hurt the feelings of other people when answering a question, just say that you cannot answer the question.
 2. When you don't know an answer to a question, try coming up with something that you know most related to the question.
 
+From the reading I noticed that more than 65 percent of RPI's undergraduates finished top 10 percent of their high school class. Although not being one of them, I am extremely proud to be an RPI student. I also learned that if you tried to access a ﬁle through a Windows browser that was on a computer that was off-line, your computer could crash. More to that, I learned that if you do not need to be a CS student in order to make a search engine. Making a search engine might include certain risks involving lawsuits that would make you pay 15 miliion dollars. In order to prevent these risks from happening, the search engine creator must be careful of not including one fourth of its files as music files. I learned a lot from this reading and it would benefit me in the future.
+
 ### d. Linux
 ![directory](lab1images/directory.jpg)
 
