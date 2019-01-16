@@ -10,6 +10,7 @@ Done
 ![directory](lab1images/directory.jpg)
 
 ### e. Regex
+![regex1](lab1images/regex1.jpg)
 
 ### f. Play with Snap or CSDT or Blockly
 ![blockygames](lab1images/blockygames.jpg)
