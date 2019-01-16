@@ -5,6 +5,8 @@ Done
 Done
 
 ### c. Reading assignments - make sure to reflect on these in a lab1.md file in your repository
+1. If you don't want to hurt the feelings of other people when answering a question, just say that you cannot answer the question.
+2. When you don't know an answer to a question, try coming up with something that you know most related to the question.
 
 ### d. Linux
 ![directory](lab1images/directory.jpg)
