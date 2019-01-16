@@ -26,6 +26,10 @@ Done
 ![t7](lab1images/t7.jpg)
 ![t8](lab1images/t8.jpg)
 ![t9](lab1images/t9.jpg)
+![puzzle1](lab1images/puzzle1.jpg)
+![puzzle2](lab1images/puzzle2.jpg)
+![puzzle3](lab1images/puzzle3.jpg)
+![puzzle4](lab1images/puzzle4.jpg)
 
 ### f. Play with Snap or CSDT or Blockly
 ![blockygames](lab1images/blockygames.jpg)
