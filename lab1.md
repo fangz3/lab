@@ -7,11 +7,11 @@ Done
 ### c. Reading assignments - make sure to reflect on these in a lab1.md file in your repository
 
 ### d. Linux
-![directory](directory.jpg)
+![directory](lab1images/directory.jpg)
 
 ### e. Regex
 
 ### f. Play with Snap or CSDT or Blockly
-![blockygames](blockygames.jpg)
+![blockygames](lab1images/blockygames.jpg)
 
 ### g. Reflection
