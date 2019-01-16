@@ -35,3 +35,5 @@ Done
 ![blockygames](lab1images/blockygames.jpg)
 
 ### g. Reflection
+I would like to reflect on YACS which stands for Yet Another
+Course Scheduler (https://github.com/robinm8/yacs). YACS is an RCOS project at RPI. The primary goal of YACS is to make scheduling easier for students in generating multiple schedules without conflicts.  Those who have the experience of using SIS (student information system) to search for classes would most likely agree with the fact that the UI is not user friendly. Therefore, YACS serves as the secondary system for students who are struggling with SIS to generate schedule. The UI of YACS is extremely simple and well organized.
