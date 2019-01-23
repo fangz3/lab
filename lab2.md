@@ -21,4 +21,5 @@
 9. The project that I would like to work on is an ingredient replacement application for people who have allergies. The users can be anyone in the world. Users would use this app will input their allergens and search for a replacement that also have similar taste to what they are allergic to. The Licence that would be used is GPL. I do not want other programmers to modify the original code. What I want help on is the database for the replacement ingredients.
 
 ###
-10. 
+10. ![table](lab2images/table.jpg)
+
