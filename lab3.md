@@ -1,4 +1,9 @@
 ### Part 0 - Documentation
+1. 
+i. The problem area that my software is researching is on how to give students a convenient way to schedule their courses.
+ii.  YACS
+iii. Calender
+iv. The end product would be a calender that has the student's schedule on it.
 
 
 ### Part 1 - Community
