@@ -7,3 +7,5 @@
 ![Step3cmake](lab5images/step3cmake.png)
 ### Step 4
 ![Step4cmake](lab5images/step4cmake.png)
+### Step 5
+![Step5cmake](lab5images/step5cmake.png)
