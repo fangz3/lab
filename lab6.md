@@ -46,6 +46,7 @@ smart
 None
 
 #### 2. Your code for the four letter solution
+![code](lab6images/lab6part2.png)
 
 #### 3. Your results for the 2 four letter pairs
 
