@@ -50,6 +50,18 @@ None
 
 #### 3. Your results for the 2 four letter pairs
 
+##### Shortest path between cold and warm is
+cold
+cord
+word
+worm
+warm
+##### Shortest path between love and hate is
+love
+hove
+have
+hate
+
 #### 4. Your code for the unordered solution
 
 #### 5. Your results for the 4 five letter pairs using the unordered implementation
