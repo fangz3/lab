@@ -1,4 +1,4 @@
-#### Your results for the 4 five letter pairs
+#### 1. Your results for the 4 five letter pairs
 ##### Shortest path between chaos and order is
 chaos
 chats
@@ -45,11 +45,11 @@ smart
 ##### Shortest path between pound and marks is
 None
 
-#### Your code for the four letter solution
+#### 2. Your code for the four letter solution
 
-#### Your results for the 2 four letter pairs
+#### 3. Your results for the 2 four letter pairs
 
-#### Your code for the unordered solution
+#### 4. Your code for the unordered solution
 
-#### Your results for the 4 five letter pairs using the unordered implementation
+#### 5. Your results for the 4 five letter pairs using the unordered implementation
 
