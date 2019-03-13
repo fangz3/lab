@@ -65,4 +65,29 @@ hate
 #### 4. Your code for the unordered solution
 
 #### 5. Your results for the 4 five letter pairs using the unordered implementation
+##### Shortest path between chaos and order is
+chaos
+echos
+chore
+coder
+order
+##### Shortest path between nodes and graph is
+nodes
+shoed
+hades
+heaps
+phage
+graph
+##### Shortest path between moron and smart is
+moron
+moors
+morts
+smart
+##### Shortest path between pound and marks is
+pound
+sound
+modus
+drums
+mrads
+marks
 
