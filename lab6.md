@@ -63,6 +63,7 @@ have
 hate
 
 #### 4. Your code for the unordered solution
+![code](lab6images/lab6part4.png)
 
 #### 5. Your results for the 4 five letter pairs using the unordered implementation
 ##### Shortest path between chaos and order is
