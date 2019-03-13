@@ -1,5 +1,5 @@
 #### Your results for the 4 five letter pairs
-Shortest path between chaos and order is
+##### Shortest path between chaos and order is
 chaos
 chats
 coats
@@ -13,7 +13,7 @@ eider
 elder
 older
 order
-Shortest path between nodes and graph is
+##### Shortest path between nodes and graph is
 nodes
 modes
 moles
@@ -24,7 +24,7 @@ grads
 grade
 grape
 graph
-Shortest path between moron and smart is
+##### Shortest path between moron and smart is
 moron
 boron
 baron
@@ -42,7 +42,7 @@ sears
 stars
 start
 smart
-Shortest path between pound and marks is
+##### Shortest path between pound and marks is
 None
 
 #### Your code for the four letter solution
