@@ -44,4 +44,8 @@ iv. The end product would be a calender that has the student's schedule on it.
     - current branches: 21
    
 ### Part 2
+![image3](lab3images/code1.jpg)
+![image4](lab3images/code2.jpg)
+![image5](lab3images/result.jpg)
+
 
