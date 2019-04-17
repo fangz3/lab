@@ -4,6 +4,8 @@ i. The problem area that my software is researching is on how to give students a
 ii.  YACS
 iii. Calender
 iv. The end product would be a calender that has the student's schedule on it.
+![image1](lab3images/latex1.jpg)
+![image2](lab3images/latex2.jpg)
 
 
 ### Part 1 - Community
